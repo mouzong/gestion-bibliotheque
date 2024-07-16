@@ -11,7 +11,7 @@
     -- Nombre d''exemplaires
     -- Categorie
 ```
----
+
 ```txt
 - Utilisateurs [OK]
     -- Identifiant
@@ -24,7 +24,7 @@
     -- Date Creation
     -- Date d'édition
 ```
----
+
 ```txt
 - Emprunt [OK]
     -- id
@@ -34,7 +34,7 @@
     -- Date Creation
     -- Date d'édition
 ```
----
+
 ```txt
 - Abonnement [OK]
     -- id
