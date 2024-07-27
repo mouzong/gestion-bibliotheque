@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("api/v1/abonnement")
+@RequestMapping("api/v1/abonnements/")
 public class AbonnementController {
     private final AbonnementService abonnementService;
 
